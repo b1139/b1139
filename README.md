@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sathish
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently persuing System Design & Quantitative Finance in Risk Management
 - 💞️ I’m looking to collaborate on Django & Python Related Projects
 - 📫 How to reach me +65 94608172, +91 9788059114, sathishkumarb1139@gmail.com, https://www.linkedin.com/in/sathish-aadhira/
 
